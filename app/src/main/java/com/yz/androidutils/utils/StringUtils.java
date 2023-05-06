@@ -1,5 +1,4 @@
-package utils;
-
+package com.yz.androidutils.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

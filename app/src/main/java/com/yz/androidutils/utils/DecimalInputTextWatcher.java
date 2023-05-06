@@ -1,5 +1,4 @@
-package com.xcdyang.mes.utils;
-
+package com.yz.androidutils.utils;
 import android.text.Editable;
 import android.text.InputFilter;
 import android.text.TextWatcher;

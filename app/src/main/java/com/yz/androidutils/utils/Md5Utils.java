@@ -1,5 +1,4 @@
-package utils;
-
+package com.yz.androidutils.utils;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 

@@ -1,5 +1,4 @@
-package utils;
-
+package com.yz.androidutils.utils;
 public class Base64Encoder {
 	private static final char last2byte = (char) Integer
 			.parseInt("00000011", 2);
